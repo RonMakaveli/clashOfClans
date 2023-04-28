@@ -283,3 +283,14 @@ section{
     }
 }
 
+@media (max-width: 405px){
+     .hero{
+        width: 100vw;
+     }    
+
+    .hero-img img{
+        width: 100%;
+        
+    }
+
+}
