@@ -1,7 +1,7 @@
 <h1> Clash Of Clans </h1>
 <a href="https://blog.klickpages.com.br/pagina-de-captura/">Clash Of Clans</a>
 
-uma simples página sobre o evento do album Yeezus.
+uma simples página interativa sobre o jogo Clash Of Clans.
 
 ### Tecnologias
 
@@ -16,7 +16,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Google Fonts](https://fonts.google.com/)
 
 <h4>
- Status do Projeto: Concluído :heavy_check_mark:
+ Status do Projeto: Em andamento :construction:
 </h4>
 
 
