@@ -11,9 +11,12 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [Google Fonts](https://fonts.google.com/)
+- [Box Icons](https://boxicons.com/)
+- [Remix Icons](https://remixicon.com/)
+- [Google Fonts](https://fonts.google.com/)
 
 <h4>
  Status do Projeto: Concluído :heavy_check_mark:
 </h4>
 
-<p>Projeto criado durante o <a href="https://programadorbr.com/">Curso Full Stack - Programador BR</a></p>
+
