@@ -10,7 +10,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [HTML5](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
 - [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-- [MailChimp](https://login.mailchimp.com/)
+- [Google Fonts](https://fonts.google.com/)
 
 <h4>
  Status do Projeto: Concluído :heavy_check_mark:
