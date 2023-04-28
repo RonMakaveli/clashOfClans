@@ -170,4 +170,6 @@ section{
 
 .scroll-down i:hover{
     transform: translateY(-5px);
+    background: transparent;
+    border: 1px solid white;
 }
