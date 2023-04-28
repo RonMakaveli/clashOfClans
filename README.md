@@ -16,7 +16,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Google Fonts](https://fonts.google.com/)
 
 <h4>
- Status do Projeto: Em andamento :construction:
+ Status do Projeto: Em andamento :heavy_check_mark:
 </h4>
 
 
